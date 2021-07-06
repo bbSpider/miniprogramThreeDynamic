@@ -1,0 +1,2 @@
+# miniprogramThreeDynamic
+微信小程序加载glb外部模型，并且进行平移旋转操作
